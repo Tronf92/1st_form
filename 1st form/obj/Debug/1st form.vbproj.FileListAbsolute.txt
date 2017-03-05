@@ -1,0 +1,10 @@
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\bin\Debug\1st form.exe.config
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\bin\Debug\1st form.exe
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\bin\Debug\1st form.pdb
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\bin\Debug\1st form.xml
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\obj\Debug\_1st_form.Form1.resources
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\obj\Debug\_1st_form.Resources.resources
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\obj\Debug\1st form.vbproj.GenerateResource.Cache
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\obj\Debug\1st form.exe
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\obj\Debug\1st form.xml
+c:\users\ady\documents\visual studio 2012\Projects\1st form\1st form\obj\Debug\1st form.pdb
